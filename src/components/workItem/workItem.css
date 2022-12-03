@@ -1,0 +1,17 @@
+.card{
+ width: 60%;
+ margin: 0 auto;
+ background-color: rgb(59, 150, 66)  !important;
+}
+
+.card-text{
+ font-size: 2rem;
+ font-weight: bold;
+ color: brown
+ 
+}
+
+.card-title{
+text-decoration: underline;
+}
+
